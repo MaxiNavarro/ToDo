@@ -1,0 +1,2 @@
+El trabajo consiste en una página para administrar tareas. La misma cuenta con un formulario de registro y otro de login, una vez registrado y posterior logueo se puede ingresar al listado de tareas donde se pueden filtrar por texto concidente y/o estado (pendiente/realizada); también se pueden editar, borrar e ingresar una nueva.
+Este trabajo se realizó con HTML, PHP, MySQL y CSS.
